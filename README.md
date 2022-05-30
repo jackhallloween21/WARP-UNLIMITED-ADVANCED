@@ -1,5 +1,31 @@
 # WARP+ UNLIMITED (New Methods!😊)
-<b>Get Unlimited amount of Data in Cloudflare's WARP/WARP+ VPN</b>
+<b>Get Unlimited amount of Data in Cloudflare's WARP/WARP+ VPN, most versatile Script translated in our beloved Python!😍</b>
+<h2><b>📑 INDEX</b></h2>
+<h4><b>Easily navigate through out the guide and pick the best method that suits you and your requirements!</b></h4>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#warp-unlimited-new-methods">WARP UNLIMITED ADVANCED</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#whats-new">🆕What's New</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#-features">📑 Features</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#before-you-proceed">🪧Before you Proceed</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#%EF%B8%8F-how-to-use-">⚙️ How to use ?</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#0first-get-your-warpwarp-id-by-going-into-settings--advanced--diagnostics-and-copy-the-id-under-client-configuration-section">->😅How to get WARP/WARP+ ID?</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/README.md#%EF%B8%8F-run-on-google-colab">->🕹️ Run on Google Colab</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#host-on-heroku">->⚡Host on Heroku (24*7)</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#-host-on-railway-app">->🧿 Host on Railway App (24*7)</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#-host-on-okteto">->🪬 Host on Okteto (24*7)</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/README.md#-run-on-kaggle">->🧩 Run on Kaggle</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#%EF%B8%8F-run-on-computer">->🖥️ Run on Computer</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#-deploy-through-github-actions">->🧫 Deploy through GitHub Actions</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#-run-on-mobile-phone">->📲 Run on Mobile Phone</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#run-on-replit">->🎲Run on Replit</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#run-on-jupyter-server">->🧰Run on Jupyter Server</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#update-values">📈Update Values</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#for-mobile">->📲For Mobile</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#%EF%B8%8Ffor-pc">->🖥️For PC</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#points-to-be-remembered">🎯Points to be Remembered</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED#faq">❓FAQ</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/README.md#%EF%B8%8Fhow-to-use-this-data-on-pc">🖥️How to use this Data on PC?</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/README.md#contact-us">⛑Contact Us!</a></b></p>
+<p><b><a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/README.md#%EF%B8%8Fcredits--thanks">❤️Credits & Thanks</a></b></p>
 <h2><b>🆕What's New</b></h2>
 <p><b>1.Now get Hosted Script info on Telegram itself!</b></p>
 <p><b>2.Added Jupyter Server deployment method!</b></p>
@@ -9,6 +35,7 @@
 <p><b>6.Now you can set Variables in config.env also.</b></p>
 <p><b>7.HIDE ID option now added to choose if hide your WARP ID or not in log message send to Telegram.</b></p>
 <p><b>8.Okteto Deployment method now fixed!</b></p>
+<p><b>9.Run on Kaggle method now added!</b></p>
 <h2><b>📑 Features</b></h2>
 <h4><b>1.Get 1GB Per 10 Seconds!🔥</b></h4>
 <h4><b>2.Run this almost everywhere!🤗</b></h4>
@@ -17,15 +44,15 @@
 <p><b>2.If you deploy this Code through Heroku or Railway app and Okteto then it will run for lifetime!</b></p>
 <p><b>3.It does not matter this trick works on both that's on WARP or WARP+.</b></p>
 <h2><b>⚙️ How to use ?</b></h2>
-<h4><b>1.First Get your WARP/WARP+ ID by going into Settings > Advanced > Diagnostics and copy the ID under CLIENT CONFIGURATION section</b></h4>
+<h4><b>0.First Get your WARP/WARP+ ID by going into Settings > Advanced > Diagnostics and copy the ID under CLIENT CONFIGURATION section</b></h4>
 <img src="Img/1.jpg" height="50%" width="40%" alt="1">
 <h2><b>🕹️ Run on Google Colab</b></h2>
-<h4><b>2.First Open this Code on Google Colab:<a href="https://colab.research.google.com/github/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/Wrap_Unlimited_Advanced.ipynb" alt="Open-Colab"> Open Code!</a>
-<h4><b>3.Now Run the Timeout Preventer to prevent Google Colab from getting timeout</b></h4>
+<h4><b>1.First Open this Code on Google Colab:<a href="https://colab.research.google.com/github/TheCaduceus/WARP-UNLIMITED-ADVANCED/blob/main/Wrap_Unlimited_Advanced.ipynb" alt="Open-Colab"> Open Code!</a>
+<h4><b>2.Now Run the Timeout Preventer to prevent Google Colab from getting timeout</b></h4>
 <img src="Img/2.png" alt="2">
-<h4><b>4.Then Run The WARP+ (1.1.1.1) Code and Enter your Warp ID (Also Hit Enter after it!) as shown in the Image</b></h4>
+<h4><b>3.Then Run The WARP+ (1.1.1.1) Code and Enter your Warp ID (Also Hit Enter after it!) as shown in the Image</b></h4>
 <img src="Img/3.png" alt="3">
-<h4><b>5.After that! Let the code run, It will give you 1GB per 10 Seconds. But you have to update the value in the app! To do it<br>Go to Settings > Advanced > Connection options and press on Reset security keys</b></h4>
+<h4><b>4.After that! Let the code run, It will give you 1GB per 10 Seconds. But you have to update the value in the app! To do it<br>Go to Settings > Advanced > Connection options and press on Reset security keys</b></h4>
 <h4><b><i>❗You have to manually update the Value in the app as written in above step❗</i></b></h4>
 <h2><b>⚡Host on Heroku</b></h2>
 <h4><b>1.First Click the below Deploy button.</b></h4>
@@ -90,6 +117,13 @@
 <h4><b>4.Then go to Okteto click on "Launch Dev Environment", select your repository and change branch from main to okteto.</b></h4>
 <img src="https://user-images.githubusercontent.com/87380104/169829816-932a51f6-8cbf-4d20-975c-dfc62e2b3b62.png">
 <h4><b>5.Finally! Click on Launch button to deploy your repository and Enjoy!😘 and whenever you have to change values then just update config.env file and redeploy it.</b></h4>
+<h2><b>🧩 Run on Kaggle</b></h2>
+<p><b>Kaggle gives you ability to execute your script at scheduled intervals (if logged in) and it is best alternative of Google Colab.</b></p>
+<h4><b>1.First open my code on Kaggle:<a href="https://www.kaggle.com/code/drcaduceus/warp-unlimited-advanced?scriptVersionId=96821593"> Open Code!</a></b></h4>
+<h4><b>2.Now click on the "Copy & Edit" button as shown in the image.</b></h4>
+<img src="https://user-images.githubusercontent.com/87380104/170821579-db3cc7ce-3f38-4949-9b47-23c953ba2008.png" alt="Run on Kaggle">
+<h4><b>3.After it! click on "Run" button and Enter your WARP/WARP+ ID as shown in the image.</b></h4>
+<img src="https://user-images.githubusercontent.com/87380104/170821758-3cc6942c-6558-4811-b76e-dcbf0ebdeec3.png">
 <h2><b>🖥️ Run on Computer</b></h2>
 <h4><b>Running this script on your Computer is simple than ABC!</b></h4>
 <h4><b>1.If your PC not have python, then install it first: <a href="https://www.python.org/downloads/">Download Python</a></b></h4>
@@ -97,7 +131,7 @@
 <h4><b>3.After it run the code as shown in the Image and Enter WARP ID and Hit Enter and Enjoy!</b></h4>
 <img src="Img/6.png" alt="6">
 <h4><b><i>❗The Script will run and give you 1GB data / 10 Second until your PC is on and the Window is open. Make sure that your PC or Local System is connected to INTERNET CONNECTION.❗</i></b></h4>
-<h2><b>🧫 Deploy Through GitHub Actions</b></h2>
+<h2><b>🧫 Deploy through GitHub Actions</b></h2>
 <h4><b>This Method is too much easier and best for users who want to deploy this script multiple times on Heroku without login on Heroku again and again!</b></h4>
 <h4><b>1.First fork my different Repository <a href="https://github.com/TheCaduceus/GA-1OFM-">here</a></b></h4>
 <img src="Img/1.9.png">
@@ -114,6 +148,7 @@
   WARP_ID - Enter your WARP/WARP+ ID. In capital only!<br>
   
   SEND_LOG - If you want to receive info about your deployed script like script working?,amount of data generated or number of failed attempts. 0 for No and 1 for Yes.<br>
+  <p></p>
   BOT_TOKEN: Enter BOT API TOKEN from Bot father which will send you the log in your channel or group. Bot must be admin in specific channel or group to send log. Required if SEND_LOG is 1.<br>
   <p></p>
   CHANNEL_ID: Enter Channel/Group ID (Channel/Group must be Public) with @ in which you want log to be send. Like @example or @mychannel.<br>
@@ -125,7 +160,7 @@
 <h4><b>5.Go to Actions Tab then click "Deploy on Heroku" and "Run Workflow". Now it will be automatically got deployed on given Heroku Account!😉</b></h4>
 <img src="Img/2.2.png">
 <h4><b>5.It will take maximum 10 Seconds to start the Workflow and minimum 1-2 Minutes to get deployed!</b></h4>
-<h2><b>📲 Host on Mobile Phone</b></h2>
+<h2><b>📲 Run on Mobile Phone</b></h2>
 <h4><b>1.First Download the Termux app <a href="https://github.com/termux/termux-app/releases">from here</a>.</b></h4>
 <h4><b>2.Now run the following commands in it one by one!</b></h4>
 <p><b>
@@ -140,8 +175,9 @@
   5.python3 warp.py - This Command will run the main Script.<br>
   <p></p>
   <!---SSL is by default never comes--->
-  6.Getting <http>/SSL Error? Run following code to fix it:<br>
+  6.Getting http/SSL Error? Run following code to fix it:<br>
   termux-setup-storage && pkg update && pkg i git python wget -y && pkg upgrade && pip install --upgrade pip
+  <p></p>
   <img src="Img/Termux-Error-1.jpeg">
   </b></p>
   <h4><b>3.After above! Now Enter your WARP ID and get started.😚</b></h4>
@@ -194,11 +230,11 @@
   <p><b>This problem happens due to missing files! you can run the below given command in Termux to fix it easily:<br>termux-setup-storage && pkg update && pkg i git python wget -y && pkg upgrade && pip install --upgrade pip</b></p>
 <h4><b>5.Deploying this on Heroku/Railway/Okteto/Vercel cause any ban?</b></h4>
   <p><b>No, this script comes in category of Cron-Job because this script just take the WARP/WARP+ ID from user and arrange it in a particular format and start pining it in an interval of 10 seconds.This script is lightweight and don't have any load on system. You can refer to <a href="https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED/issues/5">issue #5</a> for more details on this.</b></p>
-<h2><b>🖥️How to use this Data on PC!</b></h2>
+<h2><b>🖥️How to use this Data on PC?</b></h2>
 <h4><b>Open the WARP or 1.1.1.1 app in your Phone and go to Settings > Account > Key and copy the License Key | Now paste that Key in your Warp app in Windows or MacOS</b></h4>
 <h2><b>⛑Contact Us!</b></h2>
 <h4><b>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a></b></h4>
 <h4><b>Directly Contact the Developer using Telegram <a href="https://telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></b></h4>
 <h2><b>❤️Credits & Thanks</b></h2>
-<p><b><a href="https://github.com/TheCaduceus">Dr.Caduceus</a>: For heavy modification as well as making New 7 Methods and this all in one Guide.</b></p>
+<p><b><a href="https://github.com/TheCaduceus">Dr.Caduceus</a>: For heavy modification as well as making New 10 Methods and this all in one Guide.</b></p>
 <p><b><a href="https://github.com/ALIILAPRO">ALI-B</a>: The Original Developer of the Base Script</b></p>
